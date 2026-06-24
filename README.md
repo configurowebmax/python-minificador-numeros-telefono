@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Minificador de Números de Teléfono 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-minificador-numeros-telefono/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-minificador-numeros-telefono/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-minificador-numeros-telefono/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Útil para importar contactos o crear enlaces de WhatsApp.
 
 ## 🚀 Probar la aplicación
 
